@@ -54,3 +54,5 @@ snowflake是Twitter开源的分布式ID生成算法，结果是一个long型的I
         fmt.Println(id)
     ```
 详细可参见:[snowflake_test.go](snowflake_test.go)
+
+[1]: imgs/20191009093154467.png
